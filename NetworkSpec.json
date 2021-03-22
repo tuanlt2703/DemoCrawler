@@ -1,0 +1,18 @@
+[
+ {
+  "Url": "https://www.gsmarena.com/samsung_galaxy_note10+-9732.php",
+  "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+  "2G": "GSM 850 / 900 / 1800 / 1900 - SIM 1 \u0026 SIM 2 (dual-SIM model only)",
+  "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+  "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - Global, LATAM",
+  "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2000/150 Mbps"
+ },
+ {
+  "Url": "https://www.gsmarena.com/apple_iphone_xs-9318.php",
+  "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+  "2G": "GSM 850 / 900 / 1800 / 1900",
+  "3G": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+  "4G": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 46, 66 - A2097",
+  "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps, EV-DO Rev.A 3.1 Mbps"
+ }
+]
